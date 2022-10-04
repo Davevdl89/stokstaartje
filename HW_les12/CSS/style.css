@@ -10,6 +10,11 @@ td {
   height: auto;
 }
 
+tr {
+  width: auto;
+  height: auto;
+}
+
 .tabel {
   overflow-x: auto;
 }
