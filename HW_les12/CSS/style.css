@@ -51,12 +51,20 @@ img {
   background-color: #CCFFFF;
 }
 
+#stokstaartje_tekst {
+  background-color: #CC99FF;
+}
+
 #afbeelding_stokstaartje {
   background-color: #CCCCFF;
 }
 
 #roofdier {
   background-color: #CC99FF;
+}
+
+#roofdier_tekst{
+  background-color: #CCFFFF;
 }
 
 #afbeelding_roofdier {
@@ -67,12 +75,20 @@ img {
   background-color: #CCFFCC;
 }
 
+#meerkat_tekst {
+  background-color: #CC99CC;
+}
+
 #afbeelding_meerkat {
   background-color: #CCCCCC;
 }
 
 #knaagdier {
   background-color: #CC99CC;
+}
+
+#knaagdier_tekst {
+  background-color: #CCFFCC;
 }
 
 #afbeelding_knaagdier {
@@ -83,12 +99,20 @@ img {
   background-color: #CCFF99;
 }
 
+#afrika_tekst {
+  background-color: #CC9999;
+}
+
 #afbeelding_afrika {
   background-color: #CCCC99;
 }
 
 #slakken {
   background-color: #CC9999;
+}
+
+#slakken_tekst {
+  background-color: #CCFF99;
 }
 
 #afbeelding_slakken {
@@ -99,12 +123,20 @@ img {
   background-color: #CCFF66;
 }
 
+#leeuwenkoning_tekst {
+  background-color: #CC9966;
+}
+
 #afbeelding_leeuwenkoning {
   background-color: #CCCC66;
 }
 
 #Rechtopstaand {
   background-color: #CC9966;
+}
+
+#rechtopstaand_tekst {
+  background-color: #CCFF66;
 }
 
 #afbeelding_rechtopstaand {
